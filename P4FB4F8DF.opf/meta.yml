@@ -11,3 +11,8 @@ source_metadata:
       parent: Last Testament
 created_at: '2022-03-01T00:13:09.691281'
 last_modified_at: '2022-03-01T00:13:09.691284'
+statistics:
+  total_words: 76
+  total_non_words: 13
+quality:
+  non_words_ratio: 0.17
